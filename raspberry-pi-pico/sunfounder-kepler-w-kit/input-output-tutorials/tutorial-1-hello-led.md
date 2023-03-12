@@ -32,10 +32,10 @@ In short, the LED blinking program is a simple, but powerful introduction to the
 ### Code
 
 ```python
-import machine
+from machine import Pin
 import utime
 
-led = machine.Pin(15, machine.Pin.OUT)
+led = Pin(15, Pin.OUT)
 while True:
     led.value(1)
     utime.sleep(2)

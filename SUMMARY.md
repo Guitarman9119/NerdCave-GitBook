@@ -37,7 +37,9 @@
 
 ## Pico Learning Board
 
-* [😎 Introduction](pico-learning-board/introduction.md)
+* [😎 Introduction](pico-learning-board/introduction/README.md)
+  * [Learning Board 1](pico-learning-board/introduction/learning-board-1/README.md)
+    * [Lesson 1](pico-learning-board/introduction/learning-board-1/lesson-1.md)
 
 ## Educational PCB Learning Boards
 

@@ -8,3 +8,10 @@ Our boards are perfect for students of all ages and skill levels, providing an i
 
 Once you've mastered the basics, you can choose to build the circuit yourself using a provided diagram, or use the board in your own projects. Our learning boards are the perfect way to get started with the Raspberry Pi Pico and take your electronics skills to the next level.
 
+## Where to Buy the learning "Pico Learning Boards?"
+
+The board is open source and you can order the PCB using any PCB manufacturer. I am also selling the boards as a kit which you can buy through gumroad. This will support the channel and project.&#x20;
+
+
+
+&#x20;
